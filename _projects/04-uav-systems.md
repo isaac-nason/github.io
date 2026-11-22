@@ -10,7 +10,7 @@ permalink: /projects/uav-systems
 The Custom UAV Platforms project focuses on the design, fabrication, and mechatronic integration of a fleet of multi-rotor drones. The overarching engineering objective is to bypass standard, GPS-reliant mission planners by implementing custom telemetry-driven Finite State Machines (FSMs) for robust autonomous operation in indoor and GPS-denied environments.
 
 **Tech Stack:** Python, ArduPilot, MAVLink Protocol, Pixhawk 6C, BNO085 IMUs, SITL.  
-**Documentation:** [View the MAVLink control scripts on GitHub](https://github.com/mistabowhunta/Autonomous-UAV-Systems)
+**Documentation:** [View the MAVLink control scripts on GitHub](https://github.com/isaac-nason/Autonomous-UAV-Systems)
 
 ---
 
