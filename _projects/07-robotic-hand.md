@@ -11,7 +11,7 @@ This project encompasses the mechatronic design and low-level software control o
 
 Tech Stack: CircuitPython, RP2040 Microcontroller, socketpool WiFi, PWM Servos, 3D Printing.
 
-Documentation: [View the kinematic control scripts on GitHub](https://github.com/mistabowhunta/5DOF-Humanoid-Kinematics)
+Documentation: [View the kinematic control scripts on GitHub](https://github.com/isaac-nason/5DOF-Humanoid-Kinematics)
 
 ---
 
