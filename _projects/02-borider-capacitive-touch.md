@@ -10,7 +10,7 @@ permalink: /projects/borider-capacitive-touch
 BoRider is an instructional robotic platform designed for children aged 6 to 24 months. The project’s core objective was to create a vehicle guided entirely by capacitive touch, allowing a child to direct movement (Forward, Backward, Left, Right) by interacting with the smooth exterior of the chassis.
 
 **Tech Stack:** Python, Sensor Fusion, Visual Feedback, Audio Engine, 3D Printing, Advanced Materials, Drivetrain.  
-**Documentation:** [View Source Code on GitHub](https://github.com/mistabowhunta/Project-BoRider-Capacitive-Touch-Mechatronic-Platform)
+**Documentation:** [View Source Code on GitHub](https://github.com/isaac-nason/Project-BoRider-Capacitive-Touch-Mechatronic-Platform)
 
 ---
 
